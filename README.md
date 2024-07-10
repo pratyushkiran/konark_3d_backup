@@ -12,3 +12,5 @@ Temple Base 3d Model
 
 https://github.com/pratyushkiran/konark_3d/blob/main/temple_base.stl
 
+https://github.com/pratyushkiran/konark_3d/blob/396b9161409b10e0c5be3321d1a246ccd23b45fe/temple_base.stl
+
